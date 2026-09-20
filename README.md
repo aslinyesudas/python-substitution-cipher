@@ -1,6 +1,3 @@
-# python-substitution-cipher
-The process is reversed using the same key.
-
 # Python Substitution Cipher
 
 A simple Python program that encrypts and decrypts messages using a randomly shuffled substitution key.
